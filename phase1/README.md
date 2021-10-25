@@ -5,7 +5,7 @@ the talk, specifically the experience I was hoping to provide. Those
 experience requirements naturally translated into some technology
 decisions.  The sample code in this directory showcases the results.
 
-## Requirements
+## Goals
 
 A *kubectl* style command of the form:
 - utilctl **command** [**subcommand**] *arguments --options*
